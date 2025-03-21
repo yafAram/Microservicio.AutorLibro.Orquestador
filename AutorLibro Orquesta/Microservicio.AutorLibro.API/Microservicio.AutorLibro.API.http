@@ -1,0 +1,6 @@
+@Microservicio.AutorLibro.API_HostAddress = http://localhost:5248
+
+GET {{Microservicio.AutorLibro.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

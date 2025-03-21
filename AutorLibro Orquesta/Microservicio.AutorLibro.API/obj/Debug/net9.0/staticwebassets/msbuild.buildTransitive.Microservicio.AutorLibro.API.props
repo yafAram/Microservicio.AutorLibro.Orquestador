@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Microservicio.AutorLibro.API.props" />
+</Project>

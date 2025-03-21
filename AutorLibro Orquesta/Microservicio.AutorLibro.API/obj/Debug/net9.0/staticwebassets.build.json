@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YiuWhoRntRlAIGuXI55WtmxTKEhJGzNncNIo70jzZcA=",
+  "Source": "Microservicio.AutorLibro.API",
+  "BasePath": "_content/Microservicio.AutorLibro.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
